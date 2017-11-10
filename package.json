@@ -2,7 +2,6 @@
   "name": "huynguyenrep",
   "version": "1.0.0",
   "description": "Project for storing Postman tests",
-  "main": "index.js",
   "directories": {
     "test": "tests"
   },
@@ -14,7 +13,6 @@
     "url": "https://github.com/dinhhuyvt/huynguyenrep.git"
   },
   "author": "Huy Nguyen",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/dinhhuyvt/huynguyenrep/issues"
   },
